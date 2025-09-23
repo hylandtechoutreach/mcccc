@@ -183,11 +183,7 @@ The CSS code should look something like this:
 ```
 
 ## Finishing Up
-Hopefully your website is looking good by now! It should look something like this:
-
-![](Assets/KataraSite.png)
-
-Congratulations, you've successfully built your own website!
+Hopefully your website is looking good by now. Congratulations, you've successfully built your own website!
 
 ## Customization
 If there is time remaining, there are a lot of additional updates to be made!
