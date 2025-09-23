@@ -52,7 +52,7 @@ From there, follow the [code-along instructions](CodeAlong.md) to show the stude
 Give students some time to add more to their websites. There are a bunch of things they can try by following the [guide](Customization.md).
 
 ### Site Sharing
-Encourage the students to share the websites they've built with the room. They can simply shout out their project names. Projects can be accessed at **hytop.onrender.com/pf/{PROJECT NAME}**. 
+Encourage the students to share the websites they've built with the room. They can simply shout out their project names. Projects can be accessed at **hytop.onrender.com/pf/{PROJECT NAME}**.
 
 ### Blooket: Formative Assessment
 [Blooket](https://www.blooket.com/) is a fun formative assessment tool that's similar to Kahoot, but more game-based. There are a variety of game modes where the students compete against each other in different ways. Answering questions correctly helps them achieve more success in each game.
