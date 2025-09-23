@@ -1,1 +1,3 @@
 - [10/9 - The Internet](TheInternet/StudentDesc.md)
+  - [Code-Along](TheInternet/CodeAlong.md)
+  - [Customization](TheInternet/Customization.md)
