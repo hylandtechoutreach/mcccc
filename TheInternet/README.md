@@ -1,5 +1,5 @@
-# Building Websites with HTML & CSS
-In this session, students will explore the inner workings of the World Wide Web, and then create websites of their own. They will use HTML to add text and pictures to their pages, and CSS to update fonts, colors, and more. By the end of the session, they will have gained a basic understanding of web development, and each student will have a totally unique website of their own design.
+# The Internet
+In this session, students will explore the history and functionality of the internet, and then create websites of their own. They will use HTML to add text and pictures to their pages, and CSS to update fonts, colors, and more. By the end of the session, they will have gained a basic understanding of web development, and each student will have a totally unique website of their own design.
 
 ### Agenda
 Here are some general guidelines for the overall flow of the camp:
