@@ -1,7 +1,7 @@
 # MCCCC
 Welcome to Hyland's Midtown Coding Club!
 
-[Click here to join the Discord Server](https://discord.gg/WfMKEpBMWY), or [read more](DiscordUse.md).
+[Click here to join the Discord Server](https://discord.gg/WfMKEpBMWY), or [read more about Discord](DiscordUse.md).
 
 ## Sessions
 Here is our schedule of sessions:
