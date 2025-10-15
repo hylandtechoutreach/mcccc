@@ -36,6 +36,15 @@ The entirety of the session flows through the [PowerPoint Presentation](RetroGam
 ### Icebreaker
 Have students draw a video game character using [Sketch Toy](https://sketchtoy.com/), and introduce themselves along with their drawings.
 
+#### Drawing
+Introduce [Sketch Toy](https://sketchtoy.com/), and show some basic drawing features (size, color, vibration). Make sure all the students can get to the drawing site through the camp homepage, and give them some time to draw. Additionally, show them how to save their drawings, and copy a link for submission.
+
+#### Submission
+After a few minutes, students should submit their drawings using the [form](https://forms.office.com/r/wwmY5Jim3q) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EZJZDYtgTmVCmzPUk3t40HgB3SGM5Fzzqs1fW-4xVh34uQ?e=NxzAIM); make sure to filter by the current room.
+
+#### Show and Tell
+Go through the responses, and call on each student. They should introduce themselves by sharing their name, grade, school, and the character they drew.
+
 ### Presentation
 After students have warmed up with the icebreaker, it's time for the presentation portion of the [PowerPoint](RetroGames.pptx). These slides contain a brief history of video games (specifically focused on platformers), and there are talking points in the slide notes.
 
@@ -76,7 +85,6 @@ When setting up the game, consider how long it will take for the game to finish.
 1. Once all students have joined, click the **Start** button
 
 From there, the students will work on their own, answering questions and trying to win the game!
-
 
 ### Game Sharing
 Encourage the students to share the games they've built with the room. They can share them through [this form](https://forms.office.com/r/YuXc5vhMQr).

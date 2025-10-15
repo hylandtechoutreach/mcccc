@@ -1,3 +1,7 @@
 - [10/9 - The Internet](TheInternet/StudentDesc.md)
   - [Code-Along](TheInternet/CodeAlong.md)
   - [Customization](TheInternet/Customization.md)
+- [10/16 - Video Games](VideoGames/StudentDesc.md)
+  - [Code-Along](CodeAlong.md)
+  - [Challenges](Challenges.md)
+  - [Sharing Games](SharingGames.md)
