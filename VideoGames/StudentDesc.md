@@ -1,4 +1,5 @@
 # Video Games
+Welcome to video games
 
 ## Warm-Ups
 [MCC Platformer](https://mccplatformer.onrender.com/) - _see if you can beat the high score!_
