@@ -1,8 +1,6 @@
 high score challenge: mcc platformer
 speedrunning
 
-https://hackyformer.onrender.com/
-
 Friendivia
 
 Autohack Idle
@@ -10,3 +8,8 @@ Autohack Idle
 What games do you like to play?
 
 Desert Bus
+
+NBA Street
+Nintendo DS
+Others?
+
