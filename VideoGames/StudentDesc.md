@@ -2,7 +2,26 @@
 Welcome to video games
 
 ## Warm-Ups
-[MCC Platformer](https://mccplatformer.onrender.com/) - _see if you can beat the high score!_
+Some games to play
+
+### IRL
+Play these games in the real world
+
+- PS2: NBA Street / ATV Offroad Fury 2 (tv at the front)
+- Nintendo DS: Mario Kart / Sonic Advance 2 (table by the window)
+
+### Computer
+Play these hand-made games on the computer
+
+- [MCC Platformer](https://mccplatformer.onrender.com/) - _see if you can beat the high score!_
+- [Merge Blocks](https://joswellmaxeph.github.io/mergeblocks/) - _see if you can get to 2048!_
+
+### NYT Games
+Play these New York Times games
+
+- [Wordle](https://www.nytimes.com/games/wordle/index.html)
+- [Connections](https://www.nytimes.com/games/wordle/index.html)
+- [Strands](https://www.nytimes.com/games/strands)
 
 ## Icebreaker: Sketch Toy
 [Click here to draw a video game character!](https://sketchtoy.com/) It can be an existing character, or a totally new one. When you're done, click the "SAVE" button at the top, and copy the link.
