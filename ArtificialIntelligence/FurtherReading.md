@@ -31,7 +31,7 @@ The technologies involved in artificial intelligence are interesting and varied.
 - [A.I. Agents](https://www.ibm.com/think/topics/ai-agents)
 
 ### Computer Brains
-A.I. systems often closely resemble humans in their ability to communicate. [Neural networks](https://en.wikipedia.org/wiki/Neural_network_(machine_learning)) serve as the basis for deep learning, which powers most A.I. tools today.
+A.I. systems often closely resemble humans in their ability to communicate. [Neural networks](https://en.wikipedia.org/wiki/Neural_network) serve as the basis for deep learning, which powers most A.I. tools today.
 
 - [Cognitive Revolution: psychology inspired by computers, inspiring computers inspired by psychology](https://en.wikipedia.org/wiki/Cognitive_revolution)
 - [Complete map of a Fruit Fly brain](https://www.science.org/content/article/complete-map-fruit-fly-brain-circuitry-unveiled)
