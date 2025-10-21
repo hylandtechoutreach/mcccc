@@ -5,8 +5,8 @@ The topic of this session is artificial intelligence.
 |-|-|
 | Icebreaker | 15m |
 | Presentation | 15m |
-| Break | 15m |
 | Vibe Coding | 15m |
+| Break | 15m |
 | Activities | 45m |
 | Gimkit | 15m |
 
@@ -39,4 +39,4 @@ There are a variety of activities listed on the [session homepage](StudentDesc.m
 [Speculative Fiction Submissions](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EfTvY8KVY8FMsoGRppC6uosBhxxc5DfO8i9pv6CJbvUDfA?e=El0v5H)
 
 ## Gimkit
-To end the session, play [this GimKit game](https://www.gimkit.com/view/68f651aec328f4c55fcacf00).
+To end the session, play [this Gimkit game](https://www.gimkit.com/view/68f651aec328f4c55fcacf00).
