@@ -13,3 +13,8 @@
   - [Machine Learning Model](ArtificialIntelligence/MachineLearning.md)
   - [Speculative Fiction](ArtificialIntelligence/SpeculativeFiction.md)
   - [Gallery](ArtificialIntelligence/Gallery.md)
+- [10/30 - Interactive Storytelling](InteractiveStorytelling/README.md)
+  - [Page 2](InteractiveStorytelling/Page2.md)
+  - [Follow-Along](InteractiveStorytelling/Twine.md)
+  - [Self-Paced Work](InteractiveStorytelling/SelfPacedWork.md)
+  - [Sharing Stories](InteractiveStorytelling/SharingStories.md)
