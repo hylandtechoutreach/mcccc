@@ -14,7 +14,7 @@ It's up to you to choose which text-based interactive experience you'd like to c
 You can try some of the physical books too!
 
 ## PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/InteractiveStorytelling/InteractiveStorytelling.pptx' width='100%' height='450px' frameborder='0'></iframe>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/mcccc/InteractiveStorytelling/InteractiveStorytelling.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Follow-Along Activity
 [Click here to go to Twine!](https://twinery.org/2/#/!/welcome)
