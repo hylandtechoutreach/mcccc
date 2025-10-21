@@ -7,9 +7,6 @@
 ### Submission
 [Click here to submit your drawing!](https://forms.office.com/r/afpnDVArqD)
 
-## Introductory Discussion
-[Click here to join](https://www.menti.com/alzpcazazby2)
-
 ## Vibe Coding: Building a Website
 [Create a new project on HyTop](https://hytop.onrender.com/create-project), and then go to [ChatGPT](https://chatgpt.com/) and ask it for some code.
 
