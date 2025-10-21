@@ -26,7 +26,7 @@ Now that the story is setup up, it's time to start writing it! Double click on t
 ## Adding an Image
 Adding an **image** to a story can make it much more dynamic and engaging.
 
-1. Open a new tab in Google Chrome, and go to [Google Images](https://google.com/images/)
+1. Open a new tab in Google Chrome, and go to [Google Images](https://google.com/images)
 1. Search and find a picture (e.g., "alarm clock 6:00am" - https://www.ohsu.edu/sites/default/files/2019-06/insomnia-sleep.png)
 1. Right click the picture, and select "Copy image address"  
 1. Go back to the Twine story page, and double click the "The Beginning" passage
