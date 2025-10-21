@@ -6,10 +6,10 @@ It's up to you to choose which text-based interactive experience you'd like to c
 
 - [Escape! Frog Prison](https://william-rous.itch.io/escape-frog-prison)
 - [Adventure Game](https://william-rous.itch.io/adventure)
-- [Free Will Simulator](https://newfastuff.com/wp-content/apps/free_will_simulator/index.html)
 - [Dead Space](http://chooseyourstory.com/story/viewer/default.aspx?StoryId=23287)
 - [Nothing](https://philome.la/jarxg/lecture-on-nothing/play/index.html)
 - [Type Help](https://william-rous.itch.io/type-help)
+- [Zork](https://www.pcjs.org/software/pcx86/game/infocom/zork1/)
 
 You can try some of the physical books too!
 
