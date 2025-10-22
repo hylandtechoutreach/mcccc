@@ -18,3 +18,4 @@
   - [Follow-Along](InteractiveStorytelling/Twine.md)
   - [Self-Paced Work](InteractiveStorytelling/SelfPacedWork.md)
   - [Sharing Stories](InteractiveStorytelling/SharingStories.md)
+- [11/13 - Everything Is Numbers](Heist/StudentDesc.md)
