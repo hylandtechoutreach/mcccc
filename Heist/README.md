@@ -1,109 +1,32 @@
-# Heist
+# Escape Room Puzzle
 >Everything is numbers
 
-## BEGINNINGS
-Four paper puzzles. Each reveals one number. All must be solved for the combination to unlock box A.
+## Overview
+This is an "escape room" type game where students try to find keys to unlock boxes. The keys are hidden or locked in various places. Students should work together to solve each puzzle - it is meant to be fully collaborative, not competitive.
 
-- pixel grid
-- rot12 cipher
-- code that executes to reveal a number
-- logic puzzle
+### Arrival: 4-5pm
+The students should enter the classroom and notice some things:
 
-one-off hints in people's bags:
+- One big black box, locked (FINAL BOX)
+- One small red box, locked (TAGOUT BOX)
+- Four small silver boxes, locked (BOX A, BOX B, BOX C, BOX D)
+- Paper puzzles
+- Swag bags (given to each of them)
+- Number sheets (on the wall)
 
-- "KEY D HINT: C Game"
-- "CHOSEN ONE HINT: 4"
+There is, intentionally, very little guidance provided for them; they should start by trying to solve the paper puzzles. If they do, they will be able to unlock BOX A.
 
-## BOX A
-Unlocked by
-- Combination from four paper puzzles
+### Introduction: 5:30-5:45pm
+After dinner, present the [opening presentation](EverythingIsNumbers.pptx). This will provide a bit more guidance, and, most importantly, the password for the [instructions](https://hylandtechoutreach.github.io/mcccc/Heist/StudentDesc). There are eight total keys to find.
 
-Contains
-- KEY A
-- B: DVD
-- C: MP3 PLAYER locked by passcode
-- C: QrAscii.docx (cut up, QR code goes to https://hytop.onrender.com/e/ascii-table)
-- C: BoxCAscii.docx (translate using ASCII table)
-- CRYPTEX
+### Puzzle Time: 5:45-7:30pm
+For the remainder of the time, students are encouraged to try to solve the various puzzles. If they find the eight keys, they will be able to unlock the TAGOUT BOX, which contains the keys for the FINAL BOX.
 
-## BOX B
-Unlocked by
-- Combination from exploring projects here: https://hylandtechoutreach.github.io/hf8S47hfo2/
+## Detailed Paths for Each Key
+[Click here for details.](DetailedPath.md)
 
-Contains
-- KEY B
-- "CRYPTEX HINT: green hex code"
-- "KEY C HINT: Note Numbers From a Scale"
+## Timing Estimates
+It will be extremely important for the students to stay on track if they want to unlock the final box by the end of the session. [Click here for time estimates for various milestones.](Timing.md) If the group is lagging behind a bit, additional guidance can be provided.
 
-### DVD
-From BOX A
-
-Contains
-- URL for Box B: https://hylandtechoutreach.github.io/hf8S47hfo2/
-- Extra hint: "KEY D HINT: monospace green"
-
-## BOX C
-Unlocked by
-- Combination from MP3 player melody
-
-Contains
-- KEY3
-- "CRYPTEX: Stranger Things"
-- "KEY-AT-LARGE HINT: C Computer / 2"
-
-### MIDTOWN22
-Discovered by
-- figuring out the ASCII message that says "MIDTOWN22"
-
-Contains
-- Game to be beaten that reveals MP3 player unlock code which is 
-
-### MP3 PLAYER
-From Box A
-
-Contains
-- Mp3Melody.wav
-- Extra hint: "KEY D HINT: Presentation"
-
-## BOX D
-Unlocked by
-- Combination involving hidden digits throughout the room, all in green and in courier new
-
-- in the instructions, "8" keys total
-- one from the opening presentation, randomly showing up
-- one on a big sheet with just numbers, all different fonts and colors, one stands out
-- one in the game from blue path
-
-Contains
-- KEY4
-- "FACILITATOR KEY HINT: Gratitude"
-- "CRYPTEX KEY HINT: blue rgb code"
-
-## CRYPTEX
-Contains
-- CRYPTEX KEY
-- "KEY B HINT: Animal"
-- "KEY B HINT: Squares"
-
-### GREEN SHARPIE DIVERSION
-Contains
-- "CRYPTEX KEY HINT: Binary"
-- "KEY D HINT: Number Wall"
-- "KEY B HINT: Music"
-
-### WATER BOTTLE DIVERSION
-Contains
-- "CRYPTEX KEY HINT: 1011"
-- "KEY D HINT: Instructions"
-- "KEY B HINT: Fire Code"
-
-## NICOLE
-Holds
-- FACILITATOR KEY
-
-## CABLES UNDER MIDTOWN11 (KEY-AT-LARGE)
-Hidden in plain sight
-- KEY-AT-LARGE
-
-## CHOSEN ONE
-Given to someone in welcome bags! CHOSEN ONE
+## Map
+[Click here for a map of the entire puzzle.](EscapeRoomMap.pptx)
