@@ -10,18 +10,13 @@ This session introduces a variety of ways to create art using code.
 | Self-Paced Time | 45m |
 
 ## Icebreaker
-Explore Processing, Find a Cool One, Submit
+For the icebreaker, students should take a look at the [trending OpenProcessing projects](https://openprocessing.org/discover/#/trending) (linked on [lesson homepage](https://hylandtechoutreach.github.io/mcccc/ArtWithCode/StudentDesc)), find one they like, and submit it. [View Submissions](https://hylandsw-my.sharepoint.com/:x:/g/personal/techoutreachteam_hyland_com/EQvbs8hhKVZEnY4a7yX-qyQBX2BD0gop63Ge-9Z5420Hbw?e=UcDz41)
 
 ## Lecture
-Overview of a bunch of different options (CREATIVE CODING, processing, r, svg, a-frame, html canvas)
+Present the [PowerPoint](ArtWithCode.pptx), which is a quick overview of lots of different ways to make art with code.
 
 ## Code-Along: Processing
+Facilitate the [code-along activity](CodeAlong2dScene.md).
 
 ## Self-Paced Time: Exploration
-
-Processing https://hylandtechoutreach.github.io/ucs-js/Possibilities/Processing.html
-
-
-all the projects to explore
-
-Piskel
+In the remaining time, students can explore, learn, and create. There are several potential avenues to traverse. Hopefully, students will want to [create their own art galleries](ArtGallery.md), though this is not required.
