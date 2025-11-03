@@ -13,5 +13,5 @@ Here is our schedule of sessions:
 - [10/16 - Video Games](VideoGames/StudentDesc.md)
 - [10/23 - Artificial Intelligence](ArtificialIntelligence/StudentDesc.md)
 - [10/30 - Interactive Storytelling](InteractiveStorytelling/StudentDesc.md)
-
-More coming soon!
+- [11/6 - Art with Code](ArtWithCode/StudentDesc.md)
+- [11/13 - Escape Room Activity](Heist/StudentDesc.md)
