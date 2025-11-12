@@ -3,8 +3,8 @@ Welcome to Hyland's Midtown Coding Club!
 
 [Click here to join the Discord Server](https://discord.gg/WfMKEpBMWY), or [read more about Discord](DiscordUse.md).
 
-## Opening Survey
-[Click here for the opening survey.](https://forms.office.com/r/HprvEchyXp)
+## Closing Survey
+[Click here for the closing survey.](https://forms.office.com/r/181FF4kast)
 
 ## Sessions
 Here is our schedule of sessions:
