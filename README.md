@@ -1,9 +1,9 @@
 # MCCCC
 Here you will find lesson plans for each Midtown Coding Club session. Currently in development!
 
-- [10/9 - The Internet](TheInternet/README.md)
-- [10/16 - Video Games](VideoGames/README.md)
-- [10/23 - Artificial Intelligence](ArtificialIntelligence/README.md)
-- [10/30 - Interactive Storytelling](InteractiveStorytelling/README.md)
-- [11/6 - Art with Code](ArtWithCode/README.md)
-- [11/13 - Escape Room Activity](Heist/README.md)
+- [3/12 - Python](Python/README.md)
+- [3/26 - Hardware](Hardware/README.md)
+- [4/9 - Emerging Tech](EmergingTech/README.md)
+- [4/23 - Data / Machine Learning](DataML/README.md)
+- [5/7 - Music](Music/README.md)
+- [5/21 - Game Design](GameDesign/README.md)
