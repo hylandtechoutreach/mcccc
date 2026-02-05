@@ -6,8 +6,8 @@ This session introduces the Python programming language, and explores its import
 | Activity | Time |
 |-|-|
 | Warm-Up | 10m |
-| Lecture | 20m |
-| Break | 15m |
+| Lecture | 15m |
+| Break | 10m |
 | Code-Along | 30m |
 | Self-Paced Time | 25m |
 | Formative Assessment | 10m |
