@@ -3,7 +3,10 @@ Welcome to Hyland's Midtown Coding Club!
 
 [Click here to join the Discord Server](https://discord.gg/WfMKEpBMWY), or [read more about Discord](DiscordUse.md).
 
-## Sessions
+## Intro Form
+[Please fill out this form to tell us a bit about yourself!](https://forms.office.com/r/XpdYMcgtte)
+
+## Sessions*
 Here is our schedule of sessions:
 
 - [3/12 - Python](Python/StudentDesc.md)
@@ -17,6 +20,8 @@ Here is our schedule of sessions:
 - [5/7 - Music](Music/StudentDesc.md)
 - _5/14 - Free Study_
 - [5/21 - Game Design](GameDesign/StudentDesc.md)
+
+>_\*Note: schedule subject to change_
 
 ## Sharing
 [Click here to share your work!](https://forms.office.com/r/VjZdUP1K1N)
