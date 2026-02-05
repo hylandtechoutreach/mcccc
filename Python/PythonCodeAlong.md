@@ -1,7 +1,7 @@
 # Turtle Code-Along
 In this introductory activity, use [turtle graphics](https://en.wikipedia.org/wiki/Turtle_graphics) to create a drawing in Python!
 
-![](Assets/turtle_cartoon.svg)
+<img src="Assets/turtle_cartoon.svg" class="borderless">
 
 ## Getting Started
 Setup using **Trinket** is fairly simple: [click here to get started](https://trinket.io/embed/python/b3a93390450d)!

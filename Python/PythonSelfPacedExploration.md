@@ -1,4 +1,5 @@
 # Python: Self-Paced Exploration
+There are a bunch of links on this page that will take you to places where you can continue exploring Python and its possibilities.
 
 ## Turtle Examples
 [Check out some examples of what Turtle can do](TurtleExamples.md)
