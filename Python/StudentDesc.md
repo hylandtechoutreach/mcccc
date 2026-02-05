@@ -10,7 +10,7 @@ This lesson is all about [Python](https://en.wikipedia.org/wiki/Python_language)
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/mcccc/Python/Python.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Code-Along
-[Click here to go to Trinket and start coding!](https://trinket.io/)
+[Click here to go to Trinket and start coding!](https://trinket.io/embed/python/b3a93390450d)
 
 [Click here for the code-along instructions.](PythonCodeAlong.md)
 

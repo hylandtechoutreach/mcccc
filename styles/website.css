@@ -2,7 +2,7 @@ h2 {
   border-bottom: 1px solid #ddd;
 }
 
-.markdown-section img {
+.markdown-section img:not(.borderless) {
   border: 2px solid black;
   box-shadow: 0px 0px 6px 1px black;
 }
