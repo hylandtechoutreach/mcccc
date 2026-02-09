@@ -6,8 +6,8 @@ Welcome to Hyland's Midtown Coding Club!
 ## Intro Form
 [Please fill out this form to tell us a bit about yourself!](https://forms.office.com/r/XpdYMcgtte)
 
-## Sessions*
-Here is our schedule of sessions:
+## Sessions
+Here is our schedule of sessions (subject to change):
 
 - [3/12 - Python](Python/StudentDesc.md)
 - _3/19 - Free Study_
@@ -21,7 +21,8 @@ Here is our schedule of sessions:
 - _5/14 - Free Study_
 - [5/21 - Game Design](GameDesign/StudentDesc.md)
 
->_\*Note: schedule subject to change_
-
 ## Sharing
 [Click here to share your work!](https://forms.office.com/r/VjZdUP1K1N)
+
+## Library of Games
+[Click here for the Library of Games](LibraryOfGames.md)
