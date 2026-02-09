@@ -29,3 +29,5 @@ On this page, you'll find all sorts of games you can play. Try out a few, and th
 
 ## Rate & Review
 We want to hear which games you like the most. [Click here to submit your thoughts :)](https://forms.office.com/r/iPAH8mzW7Y)
+
+[View all the reviews here!](https://hylandsw-my.sharepoint.com/:x:/g/personal/techoutreachteam_hyland_com/IQA6C3rUJ21aTqA3r7_jNcR1ATs2RRPVvA1i1PL5zm2a0sQ?e=yURaYw)
