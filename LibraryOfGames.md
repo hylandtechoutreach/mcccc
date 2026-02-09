@@ -1,8 +1,6 @@
 # Library of Games
 On this page, you'll find all sorts of games you can play. Try out a few, and then rate and review them!
 
->_**Note**: some of these links include multiple games. Please explore all the games you'd like on each page!_
-
 [Neal.Fun](https://neal.fun/)
 
 [Merge Blocks](https://joswellmaxeph.github.io/mergeblocks/)
@@ -26,6 +24,8 @@ On this page, you'll find all sorts of games you can play. Try out a few, and th
 [Nonogram](https://pixelogic.app/daily)
 
 [NYT Games](https://www.nytco.com/games/)
+
+>_**Note**: some of these links include multiple games. Please explore all the games you'd like on each page!_
 
 ## Rate & Review
 We want to hear which games you like the most. [Click here to submit your thoughts :)](https://forms.office.com/r/iPAH8mzW7Y)
