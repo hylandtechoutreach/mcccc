@@ -10,5 +10,6 @@
 - [5/7 - Music](Music/StudentDesc.md)
 - [5/21 - Game Design](GameDesign/StudentDesc.md)
 - [Discord Use](DiscordUse.md)
+- [Library of Games](LibraryOfGames.md)
 - [Archive](Archive/StudentDesc.md)
   - [AI](Archive/ArtificialIntelligence/StudentDesc.md)
