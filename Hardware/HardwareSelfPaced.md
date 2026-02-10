@@ -12,3 +12,6 @@ Here are some mostly random additional things to explore!
 
 ## It From Bit
 [Click here to learn more about John Archibald Wheeler's idea of _it from bit_.](https://plus.maths.org/content/it-bit)
+
+## NAND2Tetris
+[Click here for a course that starts from logic gates and goes all the way to Tetris!](https://www.nand2tetris.org/)
