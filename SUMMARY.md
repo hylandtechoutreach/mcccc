@@ -5,6 +5,7 @@
   - [Debugging Loops](Python/DebuggingLoops.md)
   - [Loop Challenges](Python/ChallengesLoops.md)
 - [3/26 - Hardware](Hardware/StudentDesc.md)
+  - [Self-Paced Exploration](Hardware/HardwareSelfPaced.md)
 - [4/9 - Emerging Tech](EmergingTech/StudentDesc.md)
 - [4/23 - Data / Machine Learning](DataML/StudentDesc.md)
 - [5/7 - Music](Music/StudentDesc.md)
