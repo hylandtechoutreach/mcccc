@@ -3,6 +3,14 @@ On this page, you'll find all sorts of games you can play. Try out a few, and th
 
 [Neal.Fun](https://neal.fun/)
 
+[World's Hardest Game](https://poki.com/en/g/worlds-hardest-game)
+
+[Sokoban](https://www.sokobanonline.com/play/lessons/2246_lesson-1-1)
+
+[Nonogram](https://pixelogic.app/daily)
+
+[NYT Games](https://www.nytco.com/games/)
+
 [Merge Blocks](https://joswellmaxeph.github.io/mergeblocks/)
 
 [MCC Platformer](https://mccplatformer.onrender.com/)
@@ -18,12 +26,6 @@ On this page, you'll find all sorts of games you can play. Try out a few, and th
 [Slope Game](https://openprocessing.org/sketch/2211483)
 
 [Clicks Per Second Test](https://openprocessing.org/sketch/2211240)
-
-[Sokoban](https://www.sokobanonline.com/play/lessons/2246_lesson-1-1)
-
-[Nonogram](https://pixelogic.app/daily)
-
-[NYT Games](https://www.nytco.com/games/)
 
 >_**Note**: some of these links include multiple games. Please explore all the games you'd like on each page!_
 

@@ -10,6 +10,9 @@ Here are some mostly random additional things to explore!
 ## Tinkercad: Codeblocks
 [Click here to see how you can bring 3D designs to life using Codeblocks.](https://www.tinkercad.com/learn/codeblocks?collectionId=OSZ5W2BL1W5N51F)
 
+## Binary Counting Visualization
+[Click here to see a visualization for counting in binary.](https://harryli0088.github.io/binary-visualized/)
+
 ## It From Bit
 [Click here to learn more about John Archibald Wheeler's idea of _it from bit_.](https://plus.maths.org/content/it-bit)
 
