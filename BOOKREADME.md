@@ -22,7 +22,7 @@ Here is our schedule of sessions (subject to change):
 - [5/21 - Game Design](GameDesign/StudentDesc.md)
 
 ## Sharing
-[Click here to share your work!](https://forms.office.com/r/VjZdUP1K1N)
+[Click here to share things!](https://forms.office.com/r/VjZdUP1K1N)
 
 ## Library of Games
 [Click here for the Library of Games](LibraryOfGames.md)
