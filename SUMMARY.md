@@ -12,5 +12,4 @@
 - [5/21 - Game Design](GameDesign/StudentDesc.md)
 - [Discord Use](DiscordUse.md)
 - [Library of Games](LibraryOfGames.md)
-- [Archive](Archive/StudentDesc.md)
-  - [AI](Archive/ArtificialIntelligence/StudentDesc.md)
+- [Library of Videos](LibraryOfVideos.md)
