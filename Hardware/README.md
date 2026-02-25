@@ -17,7 +17,7 @@ This session introduces the concept of hardware. It throws out a LOT of differen
 This lesson flows through the [PowerPoint Presentation](ComputerHardware.pptx). There are pieces of lectures and activities throughout.
 
 ## Hardware History
-There is a Sporcle quiz linked from the slides. This will be a good way to introduce the concept of computer hardware, dating all the way back to 2400BC. There are also some historical computer hardware pictures. This information is mainly relevant from a trivial perspective.
+There is a Sporcle quiz linked from the slides. This will introduce the concept of computer hardware, dating all the way back to 2400BC. There are also some historical computer hardware pictures. This information is mainly relevant from a trivial perspective.
 
 ## Parts of a Computer
 There are additional Sporcle quizzes to introduce different parts of a computer. This is not the primary focus of the session, but there is some important information about how computers work with all their component parts.
