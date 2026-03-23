@@ -20,7 +20,7 @@ When you combine two items, the games goes through the database to find if what 
 [Click here for the creative writing instructions.](SpeculativeFiction.md)
 
 ## Quiz: Gimkit Practice
-[Click here to practice for the Gimkit quiz.](https://www.gimkit.com/view/69c167196c17bfd58b244a9d)
+[Click here to practice for the Gimkit quiz.](https://www.gimkit.com/practice/69c167196c17bfd58b244a9d)
 
 ## Gallery
 [Click here for the Gallery.](Gallery/Gallery.md)
