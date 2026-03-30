@@ -8,8 +8,8 @@ This lesson introduces some concepts around emerging technology, and explores th
 | Warm-Up | 10m |
 | Presentation | 15m |
 | Wiki Races | 10m |
-| Break | 10m |
 | Copilot Learning | 10m |
+| Break | 10m |
 | Speculative Fiction | 20m |
 | Gimkit | 15m |
 | Self-Paced Exploration | 30m |
