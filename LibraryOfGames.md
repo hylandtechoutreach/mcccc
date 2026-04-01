@@ -1,7 +1,19 @@
 # Library of Games
 On this page, you'll find all sorts of games you can play. Try out a few, and then rate and review them!
 
+[Friendivia](https://friendivia.com/about/)
+
 [Neal.Fun](https://neal.fun/)
+
+[Finn's Ascent](https://www.finnsascent.com/)
+
+[Bottled](https://bottled.me/)
+
+[Bottled Battle](https://battle.bottled.me/)
+
+[Egg Hunt](https://egghunt.merci-michel.com/)
+
+[Narrow One](https://narrow.one/)
 
 [World's Hardest Game](https://poki.com/en/g/worlds-hardest-game)
 
