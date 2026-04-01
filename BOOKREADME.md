@@ -3,8 +3,8 @@ Welcome to Hyland's Midtown Coding Club!
 
 [Click here to join the Discord Server](https://discord.gg/WfMKEpBMWY), or [read more about Discord](DiscordUse.md).
 
-## Intro Form
-[Please fill out this form to tell us a bit about yourself!](https://forms.office.com/r/XpdYMcgtte)
+## CATERING PREFERENCE
+[Please fill out this form to tell us what kind of dinner we should get!](https://forms.office.com/r/DNktUMXg5H)
 
 ## Sessions
 Here is our schedule of sessions (subject to change):
