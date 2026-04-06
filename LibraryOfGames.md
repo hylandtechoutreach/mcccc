@@ -1,43 +1,63 @@
 # Library of Games
-On this page, you'll find all sorts of games you can play. Try out a few, and then rate and review them!
+On this page, you'll find all sorts of games you can play. You can earn raffle tickets for:
 
-[Friendivia](https://friendivia.com/about/)
+- Completing a Challenge
+- Getting a High Score (max 2)
+- Rating and Reviewing a Game (max 5)
+- Winning a Group Game
 
-[Neal.Fun](https://neal.fun/)
+## Group Games
+These games will be played live, and the winner (or winners) will earn raffle tickets!
 
-[Finn's Ascent](https://www.finnsascent.com/)
+- [Friendivia](https://friendivia.com/about/)
+- Gimkit (randoms set)
+- Drawasaurus
 
-[Bottled](https://bottled.me/)
+## High Score Challenges
+For these games, the highest scorer will earn 3 raffle tickets (if there are 3 or more scores total). When you have a new high score, a facilitator must verify it. Your highest score will only count for a maximum of two games! Check the whiteboard for verified high scores. If there is none, that means any score at all will win you a ticket!
 
-[Bottled Battle](https://battle.bottled.me/)
+- [Finn's Ascent](https://www.finnsascent.com/)
+- [Egg Hunt](https://egghunt.merci-michel.com/)
+- [Platformer Hacker](https://hackyformer.onrender.com/)
+- [Perfect Circle](https://neal.fun/perfect-circle/)
+- [MCC Platformer](https://mccplatformer.onrender.com/)
 
-[Egg Hunt](https://egghunt.merci-michel.com/)
+## Challenges
+For these game challenges, _anyone_ who completes them will earn a raffle ticket (maximum of 5).
 
-[Narrow One](https://narrow.one/)
+### Bottled: Catch a Rare Fish
+Go to [Bottled](https://bottled.me/), go to any island, and start fishing! You will win a raffle ticket if you catch a **Rare** fish.
 
-[World's Hardest Game](https://poki.com/en/g/worlds-hardest-game)
+### World's Hardest Game: First 3 Levels
+Play the [world's hardest game](https://poki.com/en/g/worlds-hardest-game), and get through the first three levels!
 
-[Sokoban](https://www.sokobanonline.com/play/lessons/2246_lesson-1-1)
+### Sokoban: Premsyl #57
+Play through the basic [sokoban lessons](https://www.sokobanonline.com/play/lessons/2246_lesson-1-1) to get acquainted with the mechanics. There are several puzzles to play, but if you want a ticket, you'll have to beat [Premsyl #57](https://www.sokobanonline.com/play/web-archive/premysl-zika/premysl/123714_premysl-57)!
 
-[Nonogram](https://pixelogic.app/daily)
+### Password Game: Fifteen Rules
+Create a password that matches the first 15 rules in the [Password Game](https://neal.fun/password-game/).
 
-[NYT Games](https://www.nytco.com/games/)
+### I'm Not a Robot: Fifteen Levels
+Prove you're not a robot for fifteen levels in the [I'm Not a Robot Game](https://neal.fun/not-a-robot/)
 
-[Merge Blocks](https://joswellmaxeph.github.io/mergeblocks/)
+### Nonogram: Daily Challenge
+Complete this [daily nonogram puzzle](https://pixelogic.app/daily).
 
-[MCC Platformer](https://mccplatformer.onrender.com/)
+### Merge Blocks: Reach 2048
+Play [Merge Blocks](https://joswellmaxeph.github.io/mergeblocks/), and get up to a 2048 block.
 
-[Follow the Point](https://codepen.io/electerious/pen/ZeammP)
+## Just For Fun
+Here are some additional games you can play just for fun.
 
-[CodeCombat](https://codecombat.com/play/dungeon)
-
-[Soccer](https://openprocessing.org/sketch/2140929)
-
-[Flappy Pong](https://openprocessing.org/sketch/395383)
-
-[Slope Game](https://openprocessing.org/sketch/2211483)
-
-[Clicks Per Second Test](https://openprocessing.org/sketch/2211240)
+- [Bottled Battle](https://battle.bottled.me/)
+- [Narrow One](https://narrow.one/)
+- [NYT Games](https://www.nytco.com/games/)
+- [Follow the Point](https://codepen.io/electerious/pen/ZeammP)
+- [CodeCombat](https://codecombat.com/play/dungeon)
+- [Soccer](https://openprocessing.org/sketch/2140929)
+- [Flappy Pong](https://openprocessing.org/sketch/395383)
+- [Slope Game](https://openprocessing.org/sketch/2211483)
+- [Clicks Per Second Test](https://openprocessing.org/sketch/2211240)
 
 >_**Note**: some of these links include multiple games. Please explore all the games you'd like on each page!_
 
