@@ -18,7 +18,6 @@ For these games, the highest scorer will earn 3 raffle tickets (if there are 3 o
 
 - [Finn's Ascent](https://www.finnsascent.com/)
 - [Egg Hunt](https://egghunt.merci-michel.com/)
-- [Platformer Hacker](https://hackyformer.onrender.com/)
 - [Perfect Circle](https://neal.fun/perfect-circle/)
 - [MCC Platformer](https://mccplatformer.onrender.com/)
 
