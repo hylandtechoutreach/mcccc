@@ -1,16 +1,16 @@
 # Library of Games
 On this page, you'll find all sorts of games you can play. You can earn raffle tickets for:
 
-- Completing a Challenge
-- Getting a High Score (max 2)
-- Rating and Reviewing a Game (max 5)
 - Winning a Group Game
+- Getting a High Score (max 1)
+- Completing a Challenge (max 2)
+- Rating and Reviewing a Game (max 3)
 
 ## Group Games
 These games will be played live, and the winner (or winners) will earn raffle tickets!
 
 - [Friendivia](https://friendivia.com/about/)
-- Gimkit (randoms set)
+- Gimkit (random set)
 - Drawasaurus
 
 ## High Score Challenges
@@ -18,12 +18,12 @@ For these games, the highest scorer will earn 3 raffle tickets (if there are 3 o
 
 - [Finn's Ascent](https://www.finnsascent.com/)
 - [Egg Hunt](https://egghunt.merci-michel.com/)
-- [Platformer Hacker](https://hackyformer.onrender.com/)
 - [Perfect Circle](https://neal.fun/perfect-circle/)
 - [MCC Platformer](https://mccplatformer.onrender.com/)
+- [Slope Game](https://openprocessing.org/sketch/2211483)
 
 ## Challenges
-For these game challenges, _anyone_ who completes them will earn a raffle ticket (maximum of 5).
+For these game challenges, _anyone_ who completes them will earn a raffle ticket (maximum of 2).
 
 ### Bottled: Catch a Rare Fish
 Go to [Bottled](https://bottled.me/), go to any island, and start fishing! You will win a raffle ticket if you catch a **Rare** fish.
@@ -46,7 +46,16 @@ Complete this [daily nonogram puzzle](https://pixelogic.app/daily).
 ### Merge Blocks: Reach 2048
 Play [Merge Blocks](https://joswellmaxeph.github.io/mergeblocks/), and get up to a 2048 block.
 
-## Just For Fun
+## Just For Fun: YouTube Playables
+[YouTube Playables](https://www.youtube.com/playables) are these weird browser-based games built into YouTube for some reason. Most of them seem like the kind of thing that would be featured in mobile game ads. Some of them are not very good, but some of them are surprisingly fun, and there are no ads! Here is a small selection to play.
+
+- [Cubes 2048.io](https://www.youtube.com/playables/UgkxfR5oYi8E2_YA1a2UWFBpUpt_B7bD_BpH)
+- [Paper.io 2](https://www.youtube.com/playables/UgkxJuWC7NuXgP2-g3P5wL-wQilDuI81Plyd)
+- [Number Game](https://www.youtube.com/playables/Ugkxv6jpH_DMDsPjfhOeOBrhvWTvxQMfwzXx)
+- [Flames & Fortune](https://www.youtube.com/playables/Ugkxx-BYHg4_MLyHtp7khA8gbJ6HfoSNc0uh)
+- [Flow Blast](https://www.youtube.com/playables/Ugkxx3hZMVBJGtGHu0WDTyWFfiAYet0Lhqxd)
+
+## Additional / Misc
 Here are some additional games you can play just for fun.
 
 - [Bottled Battle](https://battle.bottled.me/)
@@ -61,7 +70,7 @@ Here are some additional games you can play just for fun.
 
 >_**Note**: some of these links include multiple games. Please explore all the games you'd like on each page!_
 
-## Rate & Review
+## Rate & Review: Earn More Tickets (max 3)
 We want to hear which games you like the most. [Click here to submit your thoughts :)](https://forms.office.com/r/iPAH8mzW7Y)
 
 [View all the reviews here!](https://hylandsw-my.sharepoint.com/:x:/g/personal/techoutreachteam_hyland_com/IQA6C3rUJ21aTqA3r7_jNcR1ATs2RRPVvA1i1PL5zm2a0sQ?e=yURaYw)
