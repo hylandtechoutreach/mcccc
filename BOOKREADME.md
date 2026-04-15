@@ -3,9 +3,6 @@ Welcome to Hyland's Midtown Coding Club!
 
 [Click here to join the Discord Server](https://discord.gg/WfMKEpBMWY), or [read more about Discord](DiscordUse.md).
 
-## CATERING PREFERENCE
-[Please fill out this form to tell us what kind of dinner we should get!](https://forms.office.com/r/DNktUMXg5H)
-
 ## Sessions
 Here is our schedule of sessions (subject to change):
 
@@ -14,7 +11,7 @@ Here is our schedule of sessions (subject to change):
 - [3/26 - Hardware](Hardware/StudentDesc.md)
 - _4/2 - Free Study_
 - [4/9 - Emerging Tech](EmergingTech/StudentDesc.md)
-- _4/16 - Free Study_
+- 4/16 - Free Study / Game Day
 - [4/23 - Data / Machine Learning](DataML/StudentDesc.md)
 - _4/30 - Free Study_
 - [5/7 - Music](Music/StudentDesc.md)
@@ -23,6 +20,3 @@ Here is our schedule of sessions (subject to change):
 
 ## Sharing
 [Click here to share things!](https://forms.office.com/r/VjZdUP1K1N)
-
-## Library of Games
-[Click here for the Library of Games](LibraryOfGames.md)
