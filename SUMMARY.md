@@ -12,6 +12,8 @@
   - [Resources](EmergingTech/Resources.md)
 - [4/23 - Data / Machine Learning](DataML/StudentDesc.md)
 - [5/7 - Music](Music/StudentDesc.md)
+  - [Presentation Resources](Music/PresentationResources.md)
+  - [Strudel Examples](Music/StrudelExamples.md)
 - [5/21 - Game Design](GameDesign/StudentDesc.md)
 - [Discord Use](DiscordUse.md)
 - [Library of Games](LibraryOfGames.md)
