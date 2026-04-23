@@ -1,0 +1,51 @@
+let SKY_COLOR = "#87ceeb";
+
+let SUN_COLOR = "#FFDD88";
+let SUN_BRIGHTNESS = 1.9;
+
+let PLAYER_COLOR = "#00ffaa";
+
+let ENEMY_COLOR = "#ff5555";
+
+let GROUND_BASE_COLOR = "#45ca45";
+
+let GROUND_SPOT_R_START = 0;
+let GROUND_SPOT_R_VARIANCE = 0;
+let GROUND_SPOT_G_START = 120;
+let GROUND_SPOT_G_VARIANCE = 120;
+let GROUND_SPOT_B_START = 0;
+let GROUND_SPOT_B_VARIANCE = 0;
+
+let GROUND_SIZE = 100;
+
+let NUM_COINS = 5;
+
+let NUM_ENEMIES = 10;
+
+let JUMP_SPEED = 0.2;
+
+let ALLOW_REJUMP = false;
+
+let PLAYER_SPEED = 0.2;
+
+let ENEMY_SPEED = 0;
+
+let GRAVITY = 0.01;
+
+let PLATFORM_LOCATIONS = [
+  { north: 20, east: 20, vertical: 0, width: 10, length: 10 },
+  { north: -15, east: -10, vertical: 1, width: 8, length: 8 },
+  { north: -25, east: -10, vertical: 2, width: 5, length: 8 },
+  { north: -25, east: -20, vertical: 3.5, width: 5, length: 5 },
+  { north: -15, east: -20, vertical: 5, width: 5, length: 5 },
+];
+
+let PLATFORM_COLOR = "white";
+
+let COIN_LOCATIONS = [
+  { north: 20, east: 20, vertical: 1.2 },
+  { north: -15, east: -10, vertical: 2.2 },
+  { north: -25, east: -10, vertical: 3.2 },
+  { north: -25, east: -20, vertical: 4.7 },
+  { north: -15, east: -20, vertical: 6.2 },
+];
