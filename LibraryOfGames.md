@@ -46,6 +46,9 @@ Complete this [daily nonogram puzzle](https://pixelogic.app/daily).
 ### Merge Blocks: Reach 2048
 Play [Merge Blocks](https://joswellmaxeph.github.io/mergeblocks/), and get up to a 2048 block.
 
+### Red Remover: Beat 20 Levels
+Play [Red Remover](https://game.thegamebox.ca/red_remover/) and beat 20 levels.
+
 ## Just For Fun: YouTube Playables
 [YouTube Playables](https://www.youtube.com/playables) are these weird browser-based games built into YouTube for some reason. Most of them seem like the kind of thing that would be featured in mobile game ads. Some of them are not very good, but some of them are surprisingly fun, and there are no ads! Here is a small selection to play.
 
