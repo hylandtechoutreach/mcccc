@@ -87,7 +87,7 @@ class World {
     const platforms = [];
     for (let i = 0; i < PLATFORM_LOCATIONS.length; i++) {
       const p = PLATFORM_LOCATIONS[i];
-      platforms.push(new Platform(this.scene, p.east, p.vertical, p.north, p.width, 1, p.length));
+      platforms.push(new Platform(this.scene, p.north, p.vertical, p.east, p.width, 1, p.length));
     }
 
     return platforms;

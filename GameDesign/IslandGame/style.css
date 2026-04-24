@@ -19,7 +19,22 @@ body {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(50, 0, 0, 0.8);
+  color: white;
+  padding: 20px;
+  z-index: 1;
+  display: none;
+  align-items:center;
+  flex-direction: column;
+}
+
+#win {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 50, 0, 0.8);
   color: white;
   padding: 20px;
   z-index: 1;

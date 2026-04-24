@@ -5,10 +5,17 @@
   <body>
     <div id="gameover">
       <h1>GAME OVER</h1>
+      <p id="gameovermessage"></p>
+      <p>Press ENTER to restart</p>
+    </div>
+    <div id="win">
+      <h1>YOU WIN!</h1>
+      <p>Score: <b><span class="final-score"></span></b></p>
+      <p>(coins: <span class="score"></span> + time bonus: <span class="time">0</span>)</p>
       <p>Press ENTER to restart</p>
     </div>
     <div id="hud">
-      <p>Score: <span id="score">0</span> | Health: <span id="health">100</span> | Time: <span id="time">0</span></p>
+      <p>Score: <span class="score">0</span> | Time: <span class="time">0</span></p>
       <p>Message: <span id="msg"></span></p>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/build/three.min.js"></script>
