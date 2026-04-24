@@ -47,7 +47,7 @@ class Enemy {
       .multiplyScalar(-ENEMY_SPEED);
     this.enemyObj.position.add(dir);
     if (this.enemyObj.position.distanceTo(game.player.position) < 1) {
-      game.gameOver();
+      game.gameOver("A monster got you!");
     }
   }
 }

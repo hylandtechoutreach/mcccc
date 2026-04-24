@@ -8,9 +8,11 @@ class Game {
     this.keysPressed = {};
     this.frameCount = 0;
     this.startTime = Date.now();
+    this.gameTimer = TIME_LIMIT;
     this.consumables = [];
     this.enemies = [];
     this.gameOverHit = false;
+    this.winHit = false;
 
     this.world = new World(this.scene, SKY_COLOR, SUN_COLOR, SUN_BRIGHTNESS);
 
@@ -30,6 +32,7 @@ class Game {
     
     this.addCoins();
     this.addEnemies();
+    this.addWin();
   }
 
   addCoins() {
@@ -46,18 +49,33 @@ class Game {
     }
   }
 
+  addWin() {
+    const winBox = new Consumable(this, 20, -20, 1, () => {
+      this.winGame();
+    }, 2, "brown", "box");
+    this.consumables.push(winBox);
+  }
+
   addConsumable(consumable) {
     this.consumables.push(consumable);
   }
 
-  gameOver() {
+  winGame() {
+    this.finalScore = Number(this.player.score) + Number(this.gameTimer);
+    this.document.querySelector(".final-score").innerText = this.finalScore;
+    this.winHit = true;
+  }
+
+  gameOver(gameOverMessage) {
+    this.document.querySelector("#gameovermessage").innerText = gameOverMessage;
     this.gameOverHit = true;
   }
 
   update() {
     this.document.querySelector("#gameover").style.display = this.gameOverHit ? "flex" : "none";
+    this.document.querySelector("#win").style.display = this.winHit ? "flex" : "none";
 
-    if (this.gameOverHit) {
+    if (this.gameOverHit || this.winHit) {
       return;
     }
 
@@ -105,16 +123,21 @@ class Game {
       e.update();
     });
 
-    if (this.player.health <= 0) {
-      this.gameOver();
+    this.gameTimer = 10 * Number(TIME_LIMIT - (Date.now() - this.startTime) / 1000).toFixed(1);
+
+    if (this.gameTimer <= 0) {
+      this.gameOver("Time ran out!");
     }
 
     this.renderer.render(this.scene, this.camera);
-    this.document.getElementById("score").innerHTML = this.player.score;
-    this.document.getElementById("health").innerHTML = this.player.health;
-    this.document.getElementById("time").innerHTML = Math.floor(
-      (Date.now() - this.startTime) / 100,
-    );
+    this.document.querySelectorAll(".score").forEach((el) => {
+      el.innerHTML = this.player.score;
+    });
+    this.document.querySelectorAll(".time").forEach((el) => {
+      el.innerHTML = this.gameTimer;
+    });
+
+    this.hudMessage = `player position: (${this.player.position.x.toFixed(1)}, ${this.player.position.y.toFixed(1)}, ${this.player.position.z.toFixed(1)})<br>`;
 
     this.document.getElementById("msg").innerHTML = this.hudMessage;
   }

@@ -1,7 +1,7 @@
 class Coin extends Consumable {
   constructor(game, north, east, vertical) {
     const onConsume = () => {
-      game.player.score += 10;
+      game.player.score += COIN_VALUE;
     };
 
     super(game, north, east, vertical, onConsume, 0.2, "gold", "torus");

@@ -32,15 +32,20 @@ https://hytop.onrender.com/e/threejsaitest
 
 
 GAME CODE TO DO:
-[   ] organize / refactor code
-[   ] add game winning / losing
-[   ] make enemies do stuff
-[   ] add debug code
-[   ] prep code for feature add
-[   ] make game better in general
+[ x ] organize / refactor code
+[ x ] add game winning / losing
+[ x ] make enemies do stuff
+[ x ] add debug code
+[ x ] prep code for feature add
+[ x ] make game better in general
 
 OTHER TODO
 [   ] write up lesson plan
 [   ] write up Platformer Hacker instructions
 [   ] create presentation
 [   ] create game feature 
+[   ] create formative assessment (blooket)
+
+
+
+FUTURE: would be super cool to have each student build one level, and then have the game compile all of them

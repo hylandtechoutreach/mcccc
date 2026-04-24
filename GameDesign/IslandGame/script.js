@@ -13,7 +13,7 @@ function animate() {
   requestAnimationFrame(animate);
   game.update();
 
-  if (game.gameOverHit) {
+  if (game.gameOverHit || game.winHit) {
     if (game.keysPressed["enter"]) {
       window.location.reload();
     }

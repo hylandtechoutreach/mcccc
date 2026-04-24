@@ -6,12 +6,12 @@ class Consumable {
     this.onConsume = onConsume;
     let geometry;
 
-    if (shape === "sphere") {
-      geometry = new THREE.SphereGeometry(size, 32, 32);
+    if (shape === "box") {
+      geometry = new THREE.BoxGeometry(size, size, size);
     } else if (shape === "torus") {
       geometry = new THREE.TorusGeometry(0.4, 0.15, 8, 16);
     } else {
-      geometry = new THREE.BoxGeometry(size, size, size);
+      geometry = new THREE.SphereGeometry(size, 32, 32);
     }
 
     this.ThreeObj = new THREE.Mesh(
@@ -25,7 +25,9 @@ class Consumable {
   }
 
   update() {
-    if (!this.consumed && this.ThreeObj.position.distanceTo(this.player.position) < 2) {
+    const myBoundingBox = new THREE.Box3().setFromObject(this.ThreeObj);
+    const playerBoundingBox = new THREE.Box3().setFromObject(this.player.playerObj);
+    if (!this.consumed && myBoundingBox.intersectsBox(playerBoundingBox)) {
       this.onConsume();
       this.scene.remove(this.ThreeObj);
       this.consumed = true;
