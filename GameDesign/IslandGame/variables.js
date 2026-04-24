@@ -28,7 +28,7 @@ let ALLOW_REJUMP = false;
 
 let PLAYER_SPEED = 0.2;
 
-let ENEMY_SPEED = 0;
+let ENEMY_SPEED = 0.1;
 
 let GRAVITY = 0.01;
 
@@ -48,4 +48,12 @@ let COIN_LOCATIONS = [
   { north: -25, east: -10, vertical: 3.2 },
   { north: -25, east: -20, vertical: 4.7 },
   { north: -15, east: -20, vertical: 6.2 },
+];
+
+let ENEMY_LOCATIONS = [
+  { north: 10, east: 10, vertical: 1 },
+  { north: -10, east: -10, vertical: 1 },
+  { north: 15, east: -15, vertical: 1 },
+  { north: -20, east: 20, vertical: 1 },
+  { north: 5, east: -5, vertical: 1 },
 ];
