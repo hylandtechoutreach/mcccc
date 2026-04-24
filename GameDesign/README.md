@@ -29,3 +29,18 @@ https://threejs.org/editor/
 
 https://hytop.onrender.com/e/threejsaitest
 
+
+
+GAME CODE TO DO:
+[   ] organize / refactor code
+[   ] add game winning / losing
+[   ] make enemies do stuff
+[   ] add debug code
+[   ] prep code for feature add
+[   ] make game better in general
+
+OTHER TODO
+[   ] write up lesson plan
+[   ] write up Platformer Hacker instructions
+[   ] create presentation
+[   ] create game feature 

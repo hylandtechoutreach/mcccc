@@ -3,14 +3,26 @@
     <link href="style.css" rel="stylesheet" />
   </head>
   <body>
+    <div id="gameover">
+      <h1>GAME OVER</h1>
+      <p>Press ENTER to restart</p>
+    </div>
     <div id="hud">
       <p>Score: <span id="score">0</span> | Health: <span id="health">100</span> | Time: <span id="time">0</span></p>
       <p>Message: <span id="msg"></span></p>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/three@0.158.0/build/three.min.js"></script>
-    <script src="objects/consumable.js"></script>
-    <script src="objects/platform.js"></script>
+    
     <script src="variables.js"></script>
+    <script src="objects/world.js"></script>
+    <script src="objects/enemy.js"></script>
+    <script src="objects/consumable.js"></script>
+    <script src="objects/coin.js"></script>
+    <script src="objects/platform.js"></script>
+    <script src="objects/player.js"></script>
+
+    <script src="objects/game.js"></script>
+
     <script src="script.js"></script>
   </body>
 </html>
