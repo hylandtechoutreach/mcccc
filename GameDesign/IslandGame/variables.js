@@ -1,13 +1,12 @@
-let SKY_COLOR = "#87ceeb";
-
-let SUN_COLOR = "#FFDD88";
+let SKY_COLOR = "skyblue";
+let SUN_COLOR = "white";
 let SUN_BRIGHTNESS = 1.9;
 
-let PLAYER_COLOR = "#00ffaa";
-
-let ENEMY_COLOR = "#ff5555";
-
-let GROUND_BASE_COLOR = "#45ca45";
+let PLAYER_COLOR = "lime";
+let ENEMY_COLOR = "red";
+let GROUND_BASE_COLOR = "darkgreen";
+let PLATFORM_COLOR = "green";
+let WIN_BOX_COLOR = "gold";
 
 let TIME_LIMIT = 100;
 let COIN_VALUE = 100;
@@ -21,18 +20,10 @@ let GROUND_SPOT_B_VARIANCE = 0;
 
 let GROUND_SIZE = 100;
 
-let NUM_COINS = 5;
-
-let NUM_ENEMIES = 10;
-
 let JUMP_SPEED = 0.2;
-
 let ALLOW_REJUMP = false;
-
 let PLAYER_SPEED = 0.2;
-
 let ENEMY_SPEED = 0.1;
-
 let GRAVITY = 0.01;
 
 let PLATFORM_LOCATIONS = [
@@ -45,8 +36,6 @@ let PLATFORM_LOCATIONS = [
   { north: -5, east: -20, vertical: 5.9, width: 4, length: 4 },
   { north: 10, east: -20, vertical: 4, width: 10, length: 1 },
 ];
-
-let PLATFORM_COLOR = "white";
 
 let COIN_LOCATIONS = [
   { north: 20, east: 20, vertical: 1.2 },

@@ -4,7 +4,7 @@ class Coin extends Consumable {
       game.player.score += COIN_VALUE;
     };
 
-    super(game, north, east, vertical, onConsume, 0.2, "gold", "torus");
+    super(game, north, east, vertical, onConsume, 0.2, "orange", "torus");
   }
 
   update() {

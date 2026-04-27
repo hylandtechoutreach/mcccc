@@ -1,8 +1,5 @@
-LESSON PLAN
-
-Three JS
-vibe coding
-starter code
+# Game Design
+This lesson introduces some key concepts behind game design.
 
 ### Agenda
 

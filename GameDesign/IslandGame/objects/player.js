@@ -112,6 +112,4 @@ class Player {
       this.onGround = true;
     }
   }
-
-  
 }
