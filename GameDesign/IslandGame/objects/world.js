@@ -73,7 +73,7 @@ class World {
     const water = new THREE.Mesh(
       new THREE.PlaneGeometry(GROUND_SIZE * 2, GROUND_SIZE * 2),
       new THREE.MeshStandardMaterial({
-        color: 0x1e90ff,
+        color: OCEAN_COLOR,
         transparent: true,
         opacity: 0.7,
       }),
