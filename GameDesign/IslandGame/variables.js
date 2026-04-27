@@ -2,11 +2,14 @@ let SKY_COLOR = "skyblue";
 let SUN_COLOR = "white";
 let SUN_BRIGHTNESS = 1.9;
 
-let PLAYER_COLOR = "lime";
+let PLAYER_COLOR = "limegreen";
 let ENEMY_COLOR = "red";
-let GROUND_BASE_COLOR = "darkgreen";
-let PLATFORM_COLOR = "green";
+let GROUND_BASE_COLOR = "green";
+let PLATFORM_COLOR = "tan";
 let WIN_BOX_COLOR = "gold";
+
+let COIN_COLOR = "orange";
+let OCEAN_COLOR = "blue";
 
 let TIME_LIMIT = 100;
 let COIN_VALUE = 100;
