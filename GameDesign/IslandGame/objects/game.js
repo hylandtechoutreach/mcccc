@@ -52,7 +52,7 @@ class Game {
   addWin() {
     const winBox = new Consumable(this, 20, -20, 1, () => {
       this.winGame();
-    }, 2, "brown", "box");
+    }, 2, WIN_BOX_COLOR, "box");
     this.consumables.push(winBox);
   }
 
@@ -137,7 +137,7 @@ class Game {
       el.innerHTML = this.gameTimer;
     });
 
-    this.hudMessage = `player position: (${this.player.position.x.toFixed(1)}, ${this.player.position.y.toFixed(1)}, ${this.player.position.z.toFixed(1)})<br>`;
+    this.hudMessage = `player position:<br>north: ${this.player.position.x.toFixed(1)}<br>east: ${this.player.position.z.toFixed(1)}<br>vertical: ${this.player.position.y.toFixed(1)}`;
 
     this.document.getElementById("msg").innerHTML = this.hudMessage;
   }

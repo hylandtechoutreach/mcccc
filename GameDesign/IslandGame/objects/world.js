@@ -6,6 +6,7 @@ class World {
     this.ground = this.makeGround();
     this.water = this.makeOcean();
     this.platforms = this.makePlatforms();
+    this.makeCardinalDirections();
   }
 
   makeSun(sunColor, sunBrightness) {
@@ -91,5 +92,72 @@ class World {
     }
 
     return platforms;
+  }
+
+  makeCardinalDirection(direction) {
+    const canvas = document.createElement("canvas");
+    const ctx = canvas.getContext("2d");
+    canvas.width = canvas.height = 1000;
+    ctx.fillStyle = "white";
+    ctx.rect(0, 0, 1000, 1000);
+    ctx.fill();
+    ctx.fillStyle = "black";
+    ctx.font = "bold 500px Arial";
+    ctx.textAlign = "center";
+    ctx.textBaseline = "middle";
+    ctx.fillText(direction.name, 500, 500);
+    const textTexture = new THREE.CanvasTexture(canvas);
+    const square = new THREE.Mesh(
+      new THREE.BoxGeometry(4, .1, 4),
+      new THREE.MeshStandardMaterial({ map: textTexture, side: THREE.FrontSide })
+    );
+
+    const spotLight = new THREE.SpotLight( "white", 10, 10, Math.PI / 4, 0, 0);
+    spotLight.position.set(direction.spotLightX, 2, direction.spotLightZ);
+    spotLight.target.position.set( direction.xPos, 5, direction.zPos );
+    this.scene.add( spotLight );
+    this.scene.add(spotLight.target);
+
+    square.rotation.set(Math.PI / 2, 0, direction.rotation);
+    console.log(direction);
+    square.position.set(direction.xPos, 5, direction.zPos);
+
+    this.scene.add(square);
+  }
+
+  makeCardinalDirections() {
+    const directions = [{
+      name: "N",
+      xPos: 50,
+      zPos: 0,
+      rotation: Math.PI / 2,
+      spotLightX: 45,
+      spotLightZ: 0,
+    }, {
+      name: "E",
+      xPos: 0,
+      zPos: 50,
+      rotation: Math.PI,
+      spotLightX: 0,
+      spotLightZ: 45,
+    }, {
+      name: "S", 
+      xPos: -50,
+      zPos: 0,
+      rotation: -Math.PI / 2,
+      spotLightX: -45,
+      spotLightZ: 0,
+    }, {
+      name: "W",
+      xPos: 0,
+      zPos: -50,
+      rotation: 0,
+      spotLightX: 0,
+      spotLightZ: -45,
+    }];
+
+    for (let i = 0; i < directions.length; i++) {
+      this.makeCardinalDirection(directions[i]);
+    }
   }
 }
