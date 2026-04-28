@@ -15,5 +15,8 @@ Notice that it is possible to modify the gameplay by changing some of the text o
 
 [Click here for the code-along instructions.](FillInTheBlankGameCodeAlong.md)
 
+## Blooket: Practice
+[Click here to practice the Blooket quiz questions.](https://solo.blooket.com/defense2?id=69f133031719be2f233c9d65)
+
 ## Resources
 [Click here for some additional links.](Resources.md)
