@@ -30,7 +30,7 @@ Once the students have some custom games, follow [the instructions](AddPowerUpCo
 From here, they are welcome to continue developing their games and making them unique and interesting.
 
 ## Blooket
-Conclude the content of the lesson by presenting a [Blooket quiz game]().
+Conclude the content of the lesson by presenting a [Blooket quiz game](https://dashboard.blooket.com/set/69f12af13faa7ad75e9dcbf8).
 
 
 https://threejs.org/editor/
