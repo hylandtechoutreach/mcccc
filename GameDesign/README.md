@@ -31,27 +31,3 @@ From here, they are welcome to continue developing their games and making them u
 
 ## Blooket
 Conclude the content of the lesson by presenting a [Blooket quiz game](https://dashboard.blooket.com/set/69f12af13faa7ad75e9dcbf8).
-
-
-https://threejs.org/editor/
-
-https://hytop.onrender.com/e/threejsaitest
-
-
-
-GAME CODE TO DO:
-[ x ] organize / refactor code
-[ x ] add game winning / losing
-[ x ] make enemies do stuff
-[ x ] add debug code
-[ x ] prep code for feature add
-[ x ] make game better in general
-
-OTHER TODO
-[ x ] write up lesson plan
-[ x ] write up Platformer Hacker instructions
-[ x ] create presentation
-[ x ] create game feature 
-[   ] create formative assessment (blooket)
-[   ] create resources page
-[   ] create outlines
