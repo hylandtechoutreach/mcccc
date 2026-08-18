@@ -1,0 +1,371 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Follow-Along · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-toggle-chapters/toggle.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+        <link rel="stylesheet" href="../styles/website.css">
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="AnimationChallenges.html" />
+    
+    
+    <link rel="prev" href="PiskelDemo.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    M T C
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../DiscordUse.html">
+            
+                <a href="../DiscordUse.html">
+            
+                    
+                    Discord Use
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="StudentDesc.html">
+            
+                <a href="StudentDesc.html">
+            
+                    
+                    Pixel Art & Animation
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.3.1" data-path="PiskelDemo.html">
+            
+                <a href="PiskelDemo.html">
+            
+                    
+                    Piskel Demo
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.3.2" data-path="SpriteReplacementFollowAlong.html">
+            
+                <a href="SpriteReplacementFollowAlong.html">
+            
+                    
+                    Follow-Along
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3.3" data-path="AnimationChallenges.html">
+            
+                <a href="AnimationChallenges.html">
+            
+                    
+                    Challenges
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Follow-Along</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="sprite-replacement-follow-along">Sprite Replacement Follow-Along</h1>
+<p>Artists often create pixel art animations to be used in retro-style games. Follow the instructions to modify an existing game with new custom art!</p>
+<h2 id="the-existing-game">The Existing Game</h2>
+<p><a href="https://hytop.onrender.com/e/small-platformer" target="_blank">Click here to go to the starter project.</a></p>
+<p>To create your own version of the project, click the &quot;Fork&quot; button in the upper left:</p>
+<p><img src="LessonAssets/HyTopFork.png" alt=""></p>
+<p>Play the game in the preview on the right using the arrow keys!</p>
+<p>The goal of this activity will be to replace the player sprite with a new one.</p>
+<h2 id="modifying-the-player-walk-cycle">Modifying the Player Walk Cycle</h2>
+<p>Now it&apos;s time to create a new player walk cycle! At this point, try not to change too much - it will always be possible to come back and further customize the player.</p>
+<h3 id="importing-the-existing-player">Importing the Existing Player</h3>
+<p>Follow the steps below to import the player sprite.</p>
+<p><img src="GameAssets/player.png" style="border: 1px solid black" width="300px"></p>
+<ol>
+<li>Right click the picture above and select &quot;Save image as...&quot;</li>
+<li>Save the image on your computer with <strong>player.png</strong> as the name</li>
+<li>Open a new web browser tab, and go to <a href="https://www.piskelapp.com/kids" target="_blank">piskelapp.com/kids</a></li>
+<li>Drag the downloaded <strong>player.png</strong> file into the editor<br><img src="LessonAssets/EdgeOpenDownloads.png" alt=""><br><img src="LessonAssets/EdgeOpenDownloads.png" alt=""><br><img src="LessonAssets/DownloadPlayerPng.png" alt="">  </li>
+<li>Select the &quot;Import as spritesheet&quot; option  </li>
+<li>Set the Frame size to 32 x 32</li>
+<li>Click the &quot;import&quot; button<br> <img src="LessonAssets/ImportAndMerge.png" alt=""></li>
+<li>If a pop-up appears asking if you want to continue, click the &quot;OK&quot; button</li>
+</ol>
+<p>Now the four frames of the player sprite should be ready for editing!</p>
+<h3 id="modifying-the-player">Modifying the Player</h3>
+<p>Now, the next step is to update the player sprite a little bit.</p>
+<ol>
+<li>Make a small change to the player, like the color of their head<ul>
+<li>Do not change the number of frames</li>
+<li>Do not change the size of the canvas</li>
+<li>Do not change the basic &quot;Walk Cycle&quot; frames</li>
+<li>Make sure to change each frame of the animation </li>
+</ul>
+</li>
+<li>Click the &quot;Export&quot; button on the right side of the window<br><img src="LessonAssets/ExportBtn.png" alt=""></li>
+<li>Make sure &quot;Scale&quot; is set to <strong>1.0x</strong></li>
+<li>In the EXPORT menu, select the &quot;PNG&quot; tab<br><img src="LessonAssets/ExportAsPng.png" alt=""></li>
+<li>In the &quot;Spritesheet file export&quot; part, click the &quot;Download&quot; button<br><img src="LessonAssets/ExportDownloadBtn.png" alt=""></li>
+<li>Save the file!</li>
+</ol>
+<p>Now the updated player should be ready to enter the existing game!</p>
+<h2 id="putting-the-new-player-in-the-game">Putting the New Player in the Game</h2>
+<p>It&apos;s time to update the game itself with the new player.</p>
+<ol>
+<li>Go back to the HyTOP project tab</li>
+<li>In the browser, open the Downloads again<br><img src="LessonAssets/EdgeOpenDownloads.png" alt=""><br><img src="LessonAssets/DownloadPlayerPng.png" alt=""></li>
+<li>Drag the new player file into the area on the left, under the files<br><img src="LessonAssets/DragPlayerToVars.png" alt=""></li>
+<li>On the left, click on <strong>variables.js</strong> to open the <strong>variables.js</strong> file</li>
+<li>There, on the first line, between <code>&quot;</code> and <code>&quot;</code>, enter the name of the file (e.g., <code>&quot;player.png&quot;</code>)
+<img src="LessonAssets/EditVarsFile.png" alt=""></li>
+</ol>
+<p>The code should look like:</p>
+<pre><code class="lang-js"><span class="hljs-keyword">let</span> playerSprite = <span class="hljs-string">&quot;player.png&quot;</span>;
+</code></pre>
+<p>Save the project, and at this point, the new player should appear!</p>
+<h2 id="next-steps">Next Steps</h2>
+<p>After the follow-along activity, there are some <a href="AnimationChallenges.html">challenges</a> to complete. Or, you can feel free to get creative and do whatever you want to do with Piskel!</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="PiskelDemo.html" class="navigation navigation-prev " aria-label="Previous page: Piskel Demo">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="AnimationChallenges.html" class="navigation navigation-next " aria-label="Next page: Challenges">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Follow-Along","level":"1.3.2","depth":2,"next":{"title":"Challenges","level":"1.3.3","depth":2,"path":"PixelArtAnimation/AnimationChallenges.md","ref":"PixelArtAnimation/AnimationChallenges.md","articles":[]},"previous":{"title":"Piskel Demo","level":"1.3.1","depth":2,"path":"PixelArtAnimation/PiskelDemo.md","ref":"PixelArtAnimation/PiskelDemo.md","articles":[]},"dir":"ltr"},"config":{"gitbook":"*","theme":"default","variables":{},"plugins":["toggle-chapters","scripts"],"pluginsConfig":{"scripts":{"files":["./passwordProtectedPages.js"]},"toggle-chapters":{},"highlight":{},"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"fontsettings":{"theme":"white","family":"sans","size":2},"theme-default":{"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"},"showLevel":false}},"structure":{"langs":"LANGS.md","readme":"BOOKREADME.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"styles":{"pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css","website":"styles/website.css"}},"file":{"path":"PixelArtAnimation/SpriteReplacementFollowAlong.md","mtime":"2026-08-18T20:04:34.808Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2026-08-18T20:05:09.066Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-toggle-chapters/toggle.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-scripts/5b9fffafe13ac3cee5d3880ce8c56b27-passwordProtectedPages.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
