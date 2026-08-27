@@ -25,7 +25,6 @@ Follow the steps below to import the player sprite.
 1. Open a new web browser tab, and go to [piskelapp.com/kids](https://www.piskelapp.com/kids)
 1. Drag the downloaded **player.png** file into the editor  
    ![](./LessonAssets/EdgeOpenDownloads.png)  
-   ![](./LessonAssets/EdgeOpenDownloads.png)  
    ![](./LessonAssets/DownloadPlayerPng.png)  
 1. Select the "Import as spritesheet" option  
 1. Set the Frame size to 32 x 32
