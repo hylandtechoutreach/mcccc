@@ -8,3 +8,4 @@
   - [Warm-Up: Vibe Drawing](ArtificialIntelligence2/VibeDrawingWarmUp.md)
   - [Speculative Fiction](ArtificialIntelligence2/SpeculativeFiction.md)
   - [Further Reading](ArtificialIntelligence2/FurtherReading.md)
+- [p5.js](p5js/StudentDesc.md)
