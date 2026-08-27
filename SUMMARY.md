@@ -4,3 +4,7 @@
   - [Piskel Demo](PixelArtAnimation/PiskelDemo.md)
   - [Follow-Along](PixelArtAnimation/SpriteReplacementFollowAlong.md)
   - [Challenges](PixelArtAnimation/AnimationChallenges.md)
+- [Artificial Intelligence 2](ArtificialIntelligence2/StudentDesc.md)
+  - [Warm-Up: Vibe Drawing](ArtificialIntelligence2/VibeDrawingWarmUp.md)
+  - [Speculative Fiction](ArtificialIntelligence2/SpeculativeFiction.md)
+  - [Further Reading](ArtificialIntelligence2/FurtherReading.md)
