@@ -9,3 +9,6 @@
   - [Speculative Fiction](ArtificialIntelligence2/SpeculativeFiction.md)
   - [Further Reading](ArtificialIntelligence2/FurtherReading.md)
 - [p5.js](p5js/StudentDesc.md)
+- [Command Line & Python](CommandLinePy/StudentDesc.md)
+  - [Code-Along: CYA](CommandLinePy/PythonCyaCodeAlong.md)
+  - [Debugging](CommandLinePy/Debugging.md)
