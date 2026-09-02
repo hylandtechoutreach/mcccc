@@ -126,7 +126,7 @@ One of the last things to do is just `print` a message saying `"The end"`! Add t
 
 ```py
 print()
-print("The end")`
+print("The end")
 ```
 
 That's it!

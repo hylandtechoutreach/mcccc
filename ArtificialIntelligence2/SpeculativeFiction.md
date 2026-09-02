@@ -12,5 +12,6 @@ Before starting, you will want to make some key decisions:
 - What year is it?
 - Where does the story take place?
 - Who is the main character?
+- What technology is involved?
 
-If you want help, [click here for a random prompt generator](https://hytop.onrender.com/pf/aispecfic/).
+If you want help, [click here for a random prompt generator](https://hytop.onrender.com/pf/specficprompts/).
