@@ -1,0 +1,2 @@
+# Building Websites
+For this session, present the [Building Websites coding activity](https://github.com/hylandtechoutreach/coding-activities/tree/main/BuildingWebsites#building-websites-lesson-plan). With any extra time, content can be taken from the [JavaScript coding activity](https://github.com/hylandtechoutreach/coding-activities/blob/main/InteractiveWebsites/README.md#interactive-websites-with-javascript-lesson-plan).
