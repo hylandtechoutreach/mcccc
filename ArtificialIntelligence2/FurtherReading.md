@@ -1,6 +1,8 @@
 # Further Reading
 Go deep on any of these topics with the resources provided below. [Wikipedia](https://en.wikipedia.org/wiki/Artificial_intelligence)
 
+_If you only read one thing further, read [this](https://www.dwarkesh.com/p/openai-huggingface)_
+
 ## History
 The history of A.I. goes back to antiquity. This list of articles touches on a few selected highlights.
 
