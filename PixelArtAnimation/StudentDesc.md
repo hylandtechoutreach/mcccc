@@ -8,7 +8,7 @@ Welcome to this session.
 <iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hylandtechoutreach.github.io/mcccc/PixelArtAnimation/PixelArtAnimation.pptx' width='100%' height='450px' frameborder='0'></iframe>
 
 ## Piskel Demo
-[Click here to go to Piskel!](https://www.piskelapp.com/kids). Check out [this page](PiskelDemo.md) to see some of what is possible in this platform.
+[Click here to go to Piskel!](https://www.piskelapp.com/kids) Check out [this page](PiskelDemo.md) to see some of what is possible in this platform.
 
 ## Sprite Replacement Follow-Along
 Follow [these instructions](SpriteReplacementFollowAlong.md) to learn how you can add your own art to a platformer game!
