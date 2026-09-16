@@ -4,3 +4,6 @@ In this activity, construct a three-dimensional universe with [A-Frame](https://
 **[Starter Project](https://hytop.onrender.com/e/aframe-steam)** | [Instructions](https://hylandtechoutreach.github.io/coding-activities/AFrame3dWorlds/WorldbuildingCodeAlong.html)
 
 ![](https://hylandtechoutreach.github.io/coding-activities/AFrame3dWorlds/Assets/aframeenvironment.gif)
+
+## Extra
+[Click here for more!](https://hylandtechclub.com/cs-sampler/Aframe/StudentDesc.html)
