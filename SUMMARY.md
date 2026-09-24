@@ -14,3 +14,7 @@
   - [Debugging](CommandLinePy/Debugging.md)
 - [Building Websites](BuildingWebsites/StudentDesc.md)
 - [3D Worlds with A-Frame](./AFrame3dWorlds/StudentDesc.md)
+- [Classroom Environment](./ClassroomMgmt/NonNegotiables.md)
+  - [Tickets](./ClassroomMgmt/Tickets.md)
+  - [Guidelines](./ClassroomMgmt/Guidelines.md)
+  - [Escalation](./ClassroomMgmt/EscalationFramework.md)
