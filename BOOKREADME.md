@@ -11,6 +11,7 @@ Here are some important items of note for our classroom environment:
 - [Tickets](./ClassroomMgmt/Tickets.md)
 - [Guidelines](./ClassroomMgmt/Guidelines.md)
 - [Escalation](./ClassroomMgmt/EscalationFramework.md)
+- [New Student Ambassador Role](./ClassroomMgmt/NewStudentAmbassador.md)
 
 ## Topics
 Here are some topics we may cover this season:
