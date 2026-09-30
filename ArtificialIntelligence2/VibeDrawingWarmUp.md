@@ -5,7 +5,8 @@ In this activity, use A.I. to generate code that makes a drawing!
 First, get some code from ChatGPT.
 
 1. Go to [ChatGPT](https://chatgpt.com)
-1. Prompt it with "give me python turtle code that draws a picture of `SOMETHING`"
+1. Prompt it with "give me python turtle code that draws a picture of `SOMETHING`"  
+    _In your prompt, replace `SOMETHING` with the topic for your drawing!_
 1. When it finishes spitting out the result, copy the code using the copy button in the upper right of the code block  
   ![](Assets/ChatGptCopyCode.png)
 
