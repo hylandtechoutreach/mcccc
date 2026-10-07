@@ -12,6 +12,9 @@ First, get some code from ChatGPT.
 
 Now you have some code!
 
+### ALTERNATIVE: Google Gemini
+If ChatGPT causes issues, feel free to use [Google Gemini](http://gemini.google.com/app) as an alternative.
+
 ## Part Two: Running the Code
 Next, create a new HyTOP Python project and paste the code.
 
