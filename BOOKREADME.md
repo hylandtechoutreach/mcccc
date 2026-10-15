@@ -1,5 +1,10 @@
 # M T C
-Welcome to Hyland's Midtown Tech Club!
+Welcome to Hyland's Midtown Tech Club! Today's challenge is to get a high score in Tetris:
+
+- [Free Tetris](https://www.freetetris.org/)
+- [Text-Based Tetris](https://jpsowin.github.io/projects/textris/)
+
+![](./CommandLinePy/Assets/nes-tetris.avif)
 
 ## Sharing
 [Click here to share things!](https://forms.office.com/r/VjZdUP1K1N)
