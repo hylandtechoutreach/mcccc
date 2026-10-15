@@ -19,3 +19,4 @@
   - [Guidelines](./ClassroomMgmt/Guidelines.md)
   - [Escalation](./ClassroomMgmt/EscalationFramework.md)
   - [New Student Ambassador](./ClassroomMgmt/NewStudentAmbassador.md)
+- [Library of Games](./LibraryOfGames.md)

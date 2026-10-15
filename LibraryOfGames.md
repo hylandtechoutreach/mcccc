@@ -1,17 +1,5 @@
 # Library of Games
-On this page, you'll find all sorts of games you can play. You can earn raffle tickets for:
-
-- Winning a Group Game
-- Getting a High Score (max 1)
-- Completing a Challenge (max 2)
-- Rating and Reviewing a Game (max 3)
-
-## Group Games
-These games will be played live, and the winner (or winners) will earn raffle tickets!
-
-- [Friendivia](https://friendivia.com/about/)
-- Gimkit (random set)
-- Drawasaurus
+On this page, you'll find all sorts of games you can play. You can earn tickets for high scores and the completion of challenges!
 
 ## High Score Challenges
 For these games, the highest scorer will earn 3 raffle tickets (if there are 3 or more scores total). When you have a new high score, a facilitator must verify it. Your highest score will only count for a maximum of two games! Check the whiteboard for verified high scores. If there is none, that means any score at all will win you a ticket!
@@ -21,6 +9,7 @@ For these games, the highest scorer will earn 3 raffle tickets (if there are 3 o
 - [Perfect Circle](https://neal.fun/perfect-circle/)
 - [MCC Platformer](https://mccplatformer.onrender.com/)
 - [Slope Game](https://openprocessing.org/sketch/2211483)
+- [Tetris](https://freetetris.org)
 
 ## Challenges
 For these game challenges, _anyone_ who completes them will earn a raffle ticket (maximum of 2).
