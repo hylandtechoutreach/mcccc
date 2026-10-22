@@ -1,5 +1,4 @@
 - [M T C](BOOKREADME.md)
-- [Discord Use](DiscordUse.md)
 - [Pixel Art & Animation](PixelArtAnimation/StudentDesc.md)
   - [Piskel Demo](PixelArtAnimation/PiskelDemo.md)
   - [Follow-Along](PixelArtAnimation/SpriteReplacementFollowAlong.md)
