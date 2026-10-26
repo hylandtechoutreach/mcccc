@@ -23,5 +23,5 @@ Here are some topics we may cover this season:
 - [Artificial Intelligence 2](./ArtificialIntelligence2/StudentDesc.md)
 - [Creative Coding with p5.js](./p5js/StudentDesc.md)
 - [Command Line & Python](./CommandLinePy/StudentDesc.md)
-- [Building Websites](./BuildingWebsites/StudentDesc.md)
 - [3D Worlds with A-Frame](./AFrame3dWorlds/StudentDesc.md)
+- [JavaScript](./JsQuizAboutMe/StudentDesc.md)
