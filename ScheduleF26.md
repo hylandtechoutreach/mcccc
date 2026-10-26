@@ -5,11 +5,11 @@
 | Sep 24 | Pixel Art & Animation |
 | Oct 1* | Artificial Intelligence |
 | Oct 8 | Creative Coding with p5.js |
-| Oct 15 | Command Line + Python CYA |
-| Oct 22 | Building Websites |
+| Oct 15 | Game Day |
+| Oct 22 | Command Line + Python CYA |
 | Oct 29 | 3D Worlds with A-Frame |
-| Nov 5 | Quantum Computing |
-| Nov 12 | Treasure Hunt |
+| Nov 5 | Quiz About Me |
+| Nov 12 | Quantum Computing |
 
 - Pixel Art & Animation: adapt from hy-tech camp, turn into 1hr coding activity for repo
 - A.I.: adapt content, into 1hr activity, *check with Emi + Nicole (could also do Game Day or something else!)
