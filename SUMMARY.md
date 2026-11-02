@@ -13,6 +13,7 @@
   - [Debugging](CommandLinePy/Debugging.md)
 - [3D Worlds with A-Frame](./AFrame3dWorlds/StudentDesc.md)
 - [JavaScript](./JsQuizAboutMe/StudentDesc.md)
+- [Quantum Computing](./Quantum/StudentDesc.md)
 - [Classroom Environment](./ClassroomMgmt/NonNegotiables.md)
   - [Tickets](./ClassroomMgmt/Tickets.md)
   - [Guidelines](./ClassroomMgmt/Guidelines.md)
