@@ -31,6 +31,9 @@ Explain some of the key concepts of quantum mechanics and quantum computing with
 ## Code-Along
 Students should open the [Google Colab notebook](https://colab.research.google.com/drive/15zdd0JoXWXyQ-BULKUEaP8yoQesQFZWg) and run the code. There are some challenges listed on the [lesson homepage](./StudentDesc.md).
 
+### IMPORTANT: GOOGLE ACCOUNT REQUIRED
+Unfortunately, a Google account is required to run the notebook. Students should ideally log into their own Google accounts if they have them. Otherwise, alternative credentials should be provided (though students should not have access to these credentials).
+
 ### An Actual Quantum Computer
 It is possible to run code on an actual quantum computer as well, but an IBM account is required to get a token. [These instructions](https://quantum.cloud.ibm.com/learning/en/courses/use-a-qc-today/build-and-run-your-first-quantum-program) explain further.
 
