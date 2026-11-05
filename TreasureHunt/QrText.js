@@ -1,4 +1,4 @@
-const txt = `..............      ..  ..  ..............
+const txt2 = `..............      ..  ..  ..............
 ..          ..  ..  ..  ..  ..          ..
 ..  ......  ..  ..  ....    ..  ......  ..
 ..  ......  ..          ..  ..  ......  ..
@@ -19,6 +19,28 @@ const txt = `..............      ..  ..  ..............
 ..  ......  ..    ..  ..  ....  ......  ..
 ..          ..  ..  ......      ....      
 ..............  ..        ..    ..    ..  `;
+
+const txt = `..............      ..      ..............
+..          ..    ........  ..          ..
+..  ......  ..  ....  ..    ..  ......  ..
+..  ......  ..  ....  ..    ..  ......  ..
+..  ......  ..      ......  ..  ......  ..
+..          ..              ..          ..
+..............  ..  ..  ..  ..............
+                        ..                
+      ....  ....  ....            ....    
+....              ..  ....      ..  ....  
+        ......      ..  ..      ....    ..
+..........      ..  ....  ....    ........
+  ......  ....  ....                    ..
+                ..........  ....          
+..............  ..    ....    ..........  
+..          ..    ..    ..    ....  ..  ..
+..  ......  ..  ........      ..      ....
+..  ......  ..  ..      ......  ....      
+..  ......  ..    ......    ..      ......
+..          ..        ..    ..  ..  ......
+..............      ....    ..      ..    `
 
 const txtLines = txt.split("\n");
 const arr2d = [];
@@ -43,15 +65,33 @@ document.addEventListener("DOMContentLoaded", () => {
   }
   containerInnerHtml += `</div>`;
 
+  let blankedOnes = [];
   for (let i = 0; i < arr2d.length; i++) {
     const currentLine = arr2d[i];
     containerInnerHtml += `<div class="row"><div class="cell num">${i}</div>`
     for (let j = 0; j < currentLine.length; j++) {
-      const currentOn = currentLine[j];
+      let currentOn = currentLine[j];
+      const topLeftCorner = i < 7 && j < 7;
+      const topRightCorner = i >= 14 && j < 7;
+      const bottomLeftCorner = i < 7 && j >= 14;
+      const coinFlip = Math.random() > .7;
+      if (currentOn && !topLeftCorner && !topRightCorner && !bottomLeftCorner && coinFlip) {
+        currentOn = false;
+        blankedOnes.push(`(${j}, ${i})`);
+      }
       containerInnerHtml += `<div class="cell ${currentOn ? "on" : ""}"></div>`;
     }
     containerInnerHtml += `</div>`;
   }
 
   container.innerHTML = containerInnerHtml;
+
+  const blanksContainer = document.querySelector("#blanked");
+  for (let i = 0; i < blankedOnes.length; i++) {
+    const blankLine = document.createElement("p");
+    blankLine.textContent = blankedOnes[i];
+    blanksContainer.appendChild(blankLine);
+  }
+
+
 });
