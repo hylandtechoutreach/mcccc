@@ -23,7 +23,7 @@ Here are some additional resources:
 - [Cleveland Clinic Discovery Accelerator](https://my.clevelandclinic.org/research/computational-life-sciences/discovery-accelerator)
 - [IBM Quantum Platform: Learning](https://quantum.cloud.ibm.com/learning/en)
 - [Introduction to Classical and Quantum Computing (PDF)](./Assets/introduction-to-classical-and-quantum-computing-1e4p.pdf)
-- [Quantum Computing for Everyone (PDF)](./Assets/Quantum%20computing%20for%20everyone%20by%20Bernhardt,%20Chris%20(z-lib.org).pdf)
+- [Quantum Computing for Everyone (PDF)](./Assets/QuantumComputingForEveryone.pdf)
 - [Philosophy of QM lecture 1 slides (PDF)](./Assets/61cde33e772e736ccc9d896a58939728_lecture_1_2_2_05.pdf)
 - [But what is quantum computing? (video)](https://www.youtube.com/watch?v=RQWpF2Gb-gU)
 - [How Quantum Computers Break Encryption (video)](https://www.youtube.com/watch?v=lvTqbM5Dq4Q)
