@@ -1,7 +1,7 @@
 # Detailed Path to Each Key
 The idea is that there is one primary entry and exit point, but there are various paths throughout so multiple students can work on different areas of the puzzle. Learn how each puzzle can be solved below.
 
-## BOX A: Paper Puzzles (2795)
+## BOX A: Paper Puzzles (2795) (update 11/5/26 - it's now 4795)
 There are four puzzles - each provide a digit for the BOX A COMBO. This is the true starting point, as these puzzles are the only clear tasks provided at the start.
 
 ### The First Digit
@@ -24,7 +24,7 @@ The fourth puzzle is a logic question. The answer to the question can be parsed 
 
 _Hints: Truth table, Process of elimination, Narrow possibilities, What digits are days of the week_
 
-## BOX B: DVD -> Projects (3334)
+## BOX B: DVD -> Projects (3334) (update now 0147)
 The entry point for finding the combination for BOX B is the DVD that was inside of BOX A (TODO: Make video). When played, it will reveal the URL for the Projects Site: [https://hylandtechoutreach.github.io/hf8S47hfo2/](https://hylandtechoutreach.github.io/hf8S47hfo2/)
 
 The goal for this site is for students to explore the various projects, and try to find the four digits for BOX B. The digits can be found as follows:
@@ -34,7 +34,7 @@ The goal for this site is for students to explore the various projects, and try 
 1. [embers](https://hytop.onrender.com/e/embers-2) - scroll to the bottom of the **script.js** file to see the secret message
 1. [minor chord progression](https://tunepad.com/project/117468) - play the song, and either change the tempo, or change the code to make the spoken message longer
 
-## BOX C: ASCII -> Decoded Message -> MIDTOWN22 PC -> Platformer Game -> MP3 Player -> Melody Combo (2375)
+## BOX C: ASCII -> Decoded Message -> MIDTOWN22 PC -> Platformer Game -> MP3 Player -> Melody Combo (2375 (now 7299))
 This box has quite a few twists and turns!
 
 ### Step 1: ASCII

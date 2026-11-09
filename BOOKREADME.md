@@ -1,6 +1,13 @@
 # M T C
 Welcome to Hyland's Midtown Tech Club!
 
+## END-OF-SEASON SURVEY!
+[Click here to complete our feedback form :)](https://forms.cloud.microsoft/r/mthscLNRzu)
+
+![](./Quantum/Assets/vesuvius-fade.png)
+
+[NOVEMBER 12 - QUANTUM COMPUTING](./Quantum/StudentDesc.md)
+
 ## Sharing
 [Click here to share things!](https://forms.office.com/r/VjZdUP1K1N)
 
@@ -25,3 +32,4 @@ Here are some topics we may cover this season:
 - [Command Line & Python](./CommandLinePy/StudentDesc.md)
 - [3D Worlds with A-Frame](./AFrame3dWorlds/StudentDesc.md)
 - [JavaScript](./JsQuizAboutMe/StudentDesc.md)
+- [Quantum Computing](./Quantum/StudentDesc.md)
