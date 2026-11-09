@@ -1,12 +1,12 @@
 # M T C
 Welcome to Hyland's Midtown Tech Club!
 
-## END-OF-SEASON SURVEY!
-[Click here to complete our feedback form :)](https://forms.cloud.microsoft/r/mthscLNRzu)
+[NOVEMBER 12 - QUANTUM COMPUTING](./Quantum/StudentDesc.md)
 
 ![](./Quantum/Assets/vesuvius-fade.png)
 
-[NOVEMBER 12 - QUANTUM COMPUTING](./Quantum/StudentDesc.md)
+## END-OF-SEASON SURVEY!
+[Click here to complete our feedback form :)](https://forms.cloud.microsoft/r/mthscLNRzu)
 
 ## Sharing
 [Click here to share things!](https://forms.office.com/r/VjZdUP1K1N)
