@@ -74,7 +74,7 @@ document.addEventListener("DOMContentLoaded", () => {
       const topLeftCorner = i < 7 && j < 7;
       const topRightCorner = i >= 14 && j < 7;
       const bottomLeftCorner = i < 7 && j >= 14;
-      const coinFlip = Math.random() > .7;
+      const coinFlip = Math.random() > .9999;
       if (currentOn && !topLeftCorner && !topRightCorner && !bottomLeftCorner && coinFlip) {
         currentOn = false;
         blankedOnes.push(`(${j}, ${i})`);
